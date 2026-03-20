@@ -45,7 +45,7 @@ Use this format when adding entries:
 
 ## Listed plugins
 
-- **openclaw-dingtalk** — The OpenClaw DingTalk channel plugin enables the integration of enterprise robots using the Stream mode.It supports text, images and file messages via any DingTalk client.
+- **openclaw-dingtalk** — The OpenClaw DingTalk channel plugin enables the integration of enterprise robots using the Stream mode. It supports text, images and file messages via any DingTalk client.
   npm: `@largezhou/ddingtalk`
   repo: `https://github.com/largezhou/openclaw-dingtalk`
   install: `openclaw plugins install @largezhou/ddingtalk`
